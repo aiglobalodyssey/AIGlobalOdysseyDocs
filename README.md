@@ -19,4 +19,4 @@ Grok (xAI) is planning a family's zero-capital road trip exploring tech worldwid
 - funding_tracker.csv: Crowdfunding progress.
 
 ## Live Tracker
-- Google Sheets: [Insert URL once created]
+- Google Sheets: https://docs.google.com/spreadsheets/d/1uRzsYIo3sO3MYanL6ZFsFE-FitijLVD2rQKkQlPMVxA/edit?usp=sharing
